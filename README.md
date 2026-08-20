@@ -1,2 +1,5 @@
 # udock-files
-Files to place inside docker container so not to replicate per container
+
+(U)nderview (dock)er files.
+
+Files to place inside docker container so not to replicate per container.
